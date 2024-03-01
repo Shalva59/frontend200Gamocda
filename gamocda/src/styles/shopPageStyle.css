@@ -1,0 +1,21 @@
+.shopSec
+{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+    flex-wrap: wrap;
+}
+
+.productCategory {
+    text-align: center;
+}
+
+.imgContainer
+{
+    height: 33%;
+}
+
+.productCategory
+{
+    margin-top: 35px;
+}

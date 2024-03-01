@@ -1,0 +1,58 @@
+@media screen and (max-width: 935px) {
+
+    .header {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .divCenter {
+        display: none;
+    }
+
+    .helper_imgContainer {
+        display: none;
+    }
+
+
+    /* slider */
+
+    #carouselExampleFade 
+    {
+        padding: 15px;
+    }
+
+    /* .containerDiv {
+        display: flex;
+        flex-direction: column;
+        width: 1310px;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+    .carousel-inner {
+        width: 100%;
+        height: 900px;
+        border-radius: 15px;
+    } */
+
+    .containerDiv {
+        display: flex;
+        flex-direction: column !important;
+        width: 1310px;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .carousel-inner {
+        width: 100% !important;
+        height: 2000px;
+        border-radius: 15px;
+    }
+
+    .productCategory
+    {
+        margin-bottom: 30px;
+    }
+}
